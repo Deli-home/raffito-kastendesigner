@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg3177"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fronts.svg">
+  <defs
+     id="defs3179" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#808080"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.954531"
+     inkscape:cx="40.871482"
+     inkscape:cy="36.862229"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2992"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3182">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 8 1 L 8 31 L 23 31 L 23 1 L 8 1 z M 25 1 L 25 31 L 40 31 L 40 1 L 25 1 z M 20 20 C 20.554 20 21 20.446 21 21 L 21 25 C 21 25.554 20.554 26 20 26 C 19.446 26 19 25.554 19 25 L 19 21 C 19 20.446 19.446 20 20 20 z M 28 20 C 28.554 20 29 20.446 29 21 L 29 25 C 29 25.554 28.554 26 28 26 C 27.446 26 27 25.554 27 25 L 27 21 C 27 20.446 27.446 20 28 20 z M 8 33 L 8 39 L 40 39 L 40 33 L 25 33 L 23 33 L 8 33 z M 22 35 L 26 35 C 26.554 35 27 35.446 27 36 C 27 36.554 26.554 37 26 37 L 22 37 C 21.446 37 21 36.554 21 36 C 21 35.446 21.446 35 22 35 z M 8 41 L 8 47 L 40 47 L 40 41 L 8 41 z M 22 43 L 26 43 C 26.554 43 27 43.446 27 44 C 27 44.554 26.554 45 26 45 L 22 45 C 21.446 45 21 44.554 21 44 C 21 43.446 21.446 43 22 43 z "
+       id="rect4189" />
+  </g>
+</svg>
