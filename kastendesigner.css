@@ -1,0 +1,42 @@
+ul.ivenza-icon-menu,
+.ivenza-property-panel h3{
+    background-color:#313131;
+}
+.ivenza-properties-container{
+    border-color: rgb(110,98,89);
+}
+.ivenza-icon-menu > li.active{
+    background-color: rgb(110,98,89);
+}
+.ivenza-icon-sub-menu > li.active{
+	background-color:#fff;
+}
+.ivenza-icon-sub-menu > li.active .ivenza-icon-palette{
+    background-image: url('https://web.archive.org/web/20220219113051im_/https://raffito-accept.kastendesigner.nl/ivenza/mobile/interior/images/icons/black/svg/palette.svg');
+}
+.ivenza-icon-sub-menu > li.active .ivenza-icon-puzzle{
+    background-image: url('https://web.archive.org/web/20220219113051im_/https://raffito-accept.kastendesigner.nl/ivenza/mobile/interior/images/icons/black/svg/puzzle.svg');
+}
+.ivenza-icon-sub-menu > li.active .ivenza-icon-cabinet-layout{
+    background-image: url('https://web.archive.org/web/20220219113051im_/https://raffito-accept.kastendesigner.nl/ivenza/mobile/interior/images/icons/black/svg/cabinet-layout.svg');
+}
+.ivenza-icon-sub-menu > li.active .ivenza-icon-fronts{
+    background-image: url('https://web.archive.org/web/20220219113051im_/https://raffito-accept.kastendesigner.nl/ivenza/mobile/interior/images/icons/black/svg/fronts.svg');
+}
+ul.ivenza-icon-sub-menu{
+    background-color:#6e6259;
+}
+.ivenza-properties-container{
+    background:#fff;
+}
+.ivenza-properties-container .btn-primary,
+.ivenza-properties-container .btn-primary:focus,
+.ivenza-properties-container .btn-primary:active,
+.ivenza-properties-container .btn-primary:hover,
+.dropdown-menu>.active>a,
+.dropdown-menu>.active>a:focus,
+.dropdown-menu>.active>a:hover{
+    background-color:#6e6259;
+    border-color:#6e6259;
+    background-image:none;
+}
